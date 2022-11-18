@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>regiones</title>
+    <title>Steve</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 </head>
 
@@ -170,7 +170,7 @@ header {
 .h2-sub {
     font-size: 3rem;
     font-family: 'Poppins', sans-serif;
-    color: red;
+    color: #fff;
     font-weight: 600;
     line-height: 3.0;
 }
@@ -196,7 +196,7 @@ header {
 }
 
 .he-des h5 {
-    color: #fff;
+    color: red;
     font-size: 1.4rem;
     font-weight: 100;
     text-transform: uppercase;
